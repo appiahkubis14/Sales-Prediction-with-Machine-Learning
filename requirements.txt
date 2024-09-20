@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+missingno
+scipy
+lightgbm
+xgboost
+scikit-learn
+graphviz
+ipython-autotime
+shap
