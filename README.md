@@ -38,6 +38,6 @@ To set up the project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Sales-Prediction-with-Machine-Learning.git
 
- ![Checking frequency distribution of Storetype, Assortment, Stateholiday and Promointervals](https://github.com/user-attachments/assets/af08217b-3260-4499-90e9-680039aedba2)
+ ![Checking frequency distribution of Storetype, Assortment, Stateholiday and Promointervals](https://github.com/user-attachments/assets/af08217b-3260-4499-90e9-680039aedba2){: width="400" height="300"}
 
 
